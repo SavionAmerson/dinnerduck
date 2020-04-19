@@ -1,0 +1,73 @@
+h1{
+    font-family: 'moon';
+    color: white;
+    margin-top: 3%;
+    font-size: 36px;
+}
+
+.num-input-hold{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 50%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+input{
+    border-radius: 15px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-family: 'moon';
+    text-align: center;
+    height: 60px;
+    width: 50%;
+}
+
+::placeholder{
+    color: white;
+    opacity: 60%;
+}
+
+.page-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.quack{
+    margin-top: 5%;
+    border-radius: 30px;
+    background-color: transparent;
+    height: 60px;
+    width: 200px;
+    border-color: white;
+    color: white;
+    border-style: solid;
+}
+
+.quack:hover{
+    background-color: white;
+    color: #6600aa;
+}
+
+.quack:active{
+    background-color: white;
+    color: #6600aa;
+}
+
+
+@media only screen and (max-width: 600px) {
+    h1{
+        font-family: 'moon';
+        color: white;
+        margin-top: 3%;
+        font-size: 24px;
+    }
+
+    .quack{
+        margin-top: 15%;
+    }
+}

@@ -1,0 +1,25 @@
+.name-field{
+    margin-bottom: 30%;
+    margin-top: 30%;
+    width: 100%;
+}
+
+.name-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#field-hold{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .quack{
+        margin-top: 15%;
+    }
+}

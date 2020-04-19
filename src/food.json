@@ -1,0 +1,27 @@
+{
+  "underFourteenFood": [
+    "$2 burger",
+    "$7 sandwich",
+    "$6 chicken bucket",
+    "$9 chinese meal",
+    "$6 salad",
+    "$7 soup",
+    "$4 Mashed potatoes",
+    "$2 French fries",
+    "$3 Fruit tart",
+    "$1 Instant ramen",
+    "$6 Banana pudding",
+    "$7 Menudo"
+  ],
+
+  "overFourteenFood": [
+    "$14 pizza",
+    "$16 pasta",
+    "$12 sushi",
+    "$13 mexican meal",
+    "$20 breadbowl",
+    "$14 Posole",
+    "$20 Escargot",
+    "$15 salmon"
+  ]
+}

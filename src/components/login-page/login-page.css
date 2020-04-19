@@ -1,0 +1,56 @@
+/* h1{
+    font-family: 'moon';
+    color: white;
+    margin-top: 3%;
+    font-size: 36px;
+}
+
+.input-hold{
+    display: flex;
+    flex-direction: column;
+    width: 30% !important;
+    margin-top: 1%;
+}
+
+input{
+    margin-top: 10%;
+    border-radius: 30px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-family: 'moon';
+    text-align: center;
+}
+
+::placeholder{
+    color: white;
+    opacity: 60%;
+}
+
+.page-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.quack{
+    margin-top: 5%;
+    border-radius: 30px;
+    background-color: transparent;
+    height: 60px;
+    width: 200px;
+    border-color: white;
+    color: white;
+    border-style: solid;
+}
+
+.quack:hover{
+    background-color: white;
+    color: #6600aa;
+}
+
+.quack:active{
+    background-color: white;
+    color: #6600aa;
+} */
