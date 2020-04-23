@@ -18,6 +18,11 @@ body{
   color: white;
 }
 
+@font-face { 
+  font-family: 'moon';
+  src: url('./graphic-assets/Moon\ Bold.otf') format('otf');
+}
+
 
 @media only screen and (max-width: 400px){
   .App {
