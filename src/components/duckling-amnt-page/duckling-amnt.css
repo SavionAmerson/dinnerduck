@@ -1,11 +1,5 @@
-@font-face { 
-    font-family: 'moon';
-    src: url('./graphic-assets/Moon\ Bold.otf') 
-    format('opentype');
-}
-
 h1{
-    font-family: 'moon';
+    font-family: 'Bangers', cursive;
     color: white;
     margin-top: 3%;
     font-size: 36px;
@@ -21,7 +15,7 @@ input{
     border-style: solid;
     border-color: white;
     color: white;
-    font-family: 'moon';
+    font-family: 'Bangers', cursive;
     text-align: center;
     height: 60px;
     width: 50%;

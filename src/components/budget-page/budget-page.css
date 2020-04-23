@@ -1,11 +1,5 @@
-@font-face { 
-    font-family: 'moon';
-    src: url('./graphic-assets/Moon\ Bold.otf') 
-    format('opentype');
-}
-
 h1{
-    font-family: 'moon';
+    font-family: 'Bangers', cursive;
     color: white;
     margin-top: 3%;
     font-size: 36px;
@@ -26,7 +20,7 @@ input{
     border-style: solid;
     border-color: white;
     color: white;
-    font-family: 'moon';
+    font-family: 'Bangers', cursive;
     text-align: center;
     height: 60px;
     width: 50%;
@@ -52,6 +46,7 @@ input{
     border-color: white;
     color: white;
     border-style: solid;
+    font-family: 'Bangers', cursive;
 }
 
 .quack:hover{
@@ -67,7 +62,7 @@ input{
 
 @media only screen and (max-width: 600px) {
     h1{
-        font-family: 'moon';
+        font-family: 'Bangers', cursive;
         color: white;
         margin-top: 3%;
         font-size: 24px;

@@ -4,12 +4,6 @@
     justify-content: center;
 }
 
-@font-face { 
-    font-family: 'moon';
-    src: url('./graphic-assets/Moon\ Bold.otf') 
-    format('opentype');
-}
-
 #food-option{
     border-style: solid;
     border-color: white;

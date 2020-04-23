@@ -1,9 +1,3 @@
-@font-face { 
-    font-family: 'moon';
-    src: url('./graphic-assets/Moon\ Bold.otf') 
-    format('opentype');
-}
-
 .name-field{
     margin-bottom: 30%;
     margin-top: 30%;
