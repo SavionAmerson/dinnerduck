@@ -62,3 +62,8 @@ p{
 .quack{
     margin-top: 15%;
 }
+
+::placeholder{
+    color: white;
+    opacity: 60%;
+}
