@@ -2,6 +2,12 @@
   width: 100%;
 }
 
+@font-face { 
+  font-family: 'moon';
+  src: url('./graphic-assets/Moon\ Bold.otf') 
+  format('opentype');
+}
+
 .navbar {
   background-color: rgb(151, 0, 252);
   /* display: flex;

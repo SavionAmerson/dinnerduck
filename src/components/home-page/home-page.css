@@ -1,3 +1,9 @@
+@font-face { 
+    font-family: 'moon';
+    src: url('./graphic-assets/Moon\ Bold.otf') 
+    format('opentype');
+}
+
 h1{
     font-family: 'moon';
     color: white;
